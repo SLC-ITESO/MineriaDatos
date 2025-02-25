@@ -1,0 +1,92 @@
+[
+    {
+        "producto": "Laptop",
+        "vendedor": "Vendedor A",
+        "precio": 524.45,
+        "ventas": 33
+    },
+    {
+        "producto": "Laptop",
+        "vendedor": "Vendedor B",
+        "precio": 234.3,
+        "ventas": 33
+    },
+    {
+        "producto": "Laptop",
+        "vendedor": "Vendedor C",
+        "precio": 331.04,
+        "ventas": 38
+    },
+    {
+        "producto": "Smartphone",
+        "vendedor": "Vendedor A",
+        "precio": 436.66,
+        "ventas": 89
+    },
+    {
+        "producto": "Smartphone",
+        "vendedor": "Vendedor B",
+        "precio": 143.16,
+        "ventas": 24
+    },
+    {
+        "producto": "Smartphone",
+        "vendedor": "Vendedor C",
+        "precio": 379.58,
+        "ventas": 12
+    },
+    {
+        "producto": "Auriculares",
+        "vendedor": "Vendedor A",
+        "precio": 432.52,
+        "ventas": 48
+    },
+    {
+        "producto": "Auriculares",
+        "vendedor": "Vendedor B",
+        "precio": 182.77,
+        "ventas": 35
+    },
+    {
+        "producto": "Auriculares",
+        "vendedor": "Vendedor C",
+        "precio": 258.86,
+        "ventas": 24
+    },
+    {
+        "producto": "Tablet",
+        "vendedor": "Vendedor A",
+        "precio": 359.1,
+        "ventas": 91
+    },
+    {
+        "producto": "Tablet",
+        "vendedor": "Vendedor B",
+        "precio": 77.23,
+        "ventas": 65
+    },
+    {
+        "producto": "Tablet",
+        "vendedor": "Vendedor C",
+        "precio": 124.17,
+        "ventas": 14
+    },
+    {
+        "producto": "Smartwatch",
+        "vendedor": "Vendedor A",
+        "precio": 107.58,
+        "ventas": 18
+    },
+    {
+        "producto": "Smartwatch",
+        "vendedor": "Vendedor B",
+        "precio": 353.38,
+        "ventas": 86
+    },
+    {
+        "producto": "Smartwatch",
+        "vendedor": "Vendedor C",
+        "precio": 187.74,
+        "ventas": 11
+    }
+]
