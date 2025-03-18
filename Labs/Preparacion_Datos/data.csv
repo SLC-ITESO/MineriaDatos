@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Department,JoinDate,Active
+1,  Alice  ,25.0,50000,Sales,2022-01-15,True
+2,Bob,,60000,Marketing,2021-11-20,True
+3,Charlie,30.0,75000,  IT  ,2023-03-10,False
+4,  David  ,40.0,80000,HR,2020-09-01,True
+5,Eve  ,22.0,45000,Sales,2022-05-28,
+6,Mallory  ,55.0,1000000,  IT  ,2021-07-12,True
+7,Oscar,,55000,Marketing,2023-06-05,False
+8,Victor,31.0,62000,Sales,2022-12-01,True
+9,Zoe  ,28.0,58000,HR,2021-04-18,False
+10,Alice  ,25.0,50000,Sales,2022-01-15,True

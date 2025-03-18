@@ -1,0 +1,35 @@
+CustID,Customer_Name,Purchase_Date,Total_Spent,Location
+1001,John Doe,10/26/2024,130,Store A
+1003,Peter Jones,10/28/2024,195.5,Store B
+1005,David Lee,10/29/2024,90,Store A
+1002,Jane Smith,10/27/2024,49.99,Store C
+1006,Sarah White,10/30/2024,155,Store D
+1007,Robert Green,10/31/2024,62,Store B
+1008,Linda Black,11/01/2024,112.5,Store A
+1009,Michael Blue,11/02/2024,87,Store C
+1010,Jennifer Gray,11/03/2024,178,Store D
+1011,Christopher Red,11/04/2024,97,Store B
+1012,Amanda Yellow,11/05/2024,137.5,Store A
+1013,Daniel Orange,11/06/2024,72,Store C
+1014,Melissa Purple,11/07/2024,122.5,Store D
+1015,Kevin Pink,11/08/2024,102,Store B
+1016,Ashley Brown,11/09/2024,163,Store A
+1017,Ryan White,11/10/2024,82,Store C
+1018,Nicole Green,11/11/2024,142.5,Store D
+1019,Jason Black,11/12/2024,117,Store B
+1020,Stephanie Blue,11/13/2024,92,Store A
+1021,Eric Gray,11/14/2024,183,Store C
+1022,Michelle Red,11/15/2024,102,Store D
+1023,Justin Yellow,11/16/2024,147.5,Store B
+1024,Amanda Orange,11/17/2024,77,Store A
+1025,Brian Purple,11/18/2024,127.5,Store C
+1026,Lauren Pink,11/19/2024,107,Store D
+1027,Adam Brown,11/20/2024,168,Store B
+1028,Catherine White,11/21/2024,87,Store A
+1029,Matthew Green,11/22/2024,147.5,Store C
+1030,Rachel Black,11/23/2024,122,Store D
+1031,Nathan Blue,11/24/2024,97,Store B
+1032,Olivia Gray,11/25/2024,188,Store A
+1033,Samuel Red,11/26/2024,107,Store C
+1034,Paige Yellow,11/27/2024,152.5,Store D
+1035,Andrew Orange,11/28/2024,82,
